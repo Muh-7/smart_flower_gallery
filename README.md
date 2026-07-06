@@ -97,7 +97,7 @@ smart-flower-gallery/
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-flower-gallery.git
+git clone https://github.com/Muh-7/smart-flower-gallery.git
 cd smart-flower-gallery
 ```
 
