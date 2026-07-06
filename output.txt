@@ -1,0 +1,17 @@
+Initial State:
+Robot Position: Warehouse
+Current Load: Empty
+Remaining Needs: ...
+
+Solving using A*...
+
+Solution Found!
+Total Cost: 24
+
+Steps:
+1. Move to warehouse
+2. Load red roses
+3. Move to rose pavilion
+4. Unload red roses
+5. Return to warehouse
+...
