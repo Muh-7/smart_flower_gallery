@@ -156,7 +156,7 @@ Through this project, I practiced:
 
 ## Author
 
-**Muhammad Qasem Alsehhoum**
+**Muhammad Kaseem Alsehoum**
 
 AI Department Student
 Interested in Artificial Intelligence, Search Algorithms, and Smart Systems.
